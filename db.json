@@ -1,4 +1,5 @@
-{{
+{
+    "1":{
     "id": 68,
     "name": "Fayzabad",
     "state_id": 3901,
@@ -10,7 +11,7 @@
     "latitude": "37.11664000",
     "longitude": "70.58002000",
     "wikiDataId": "Q156558"
-  },{
+  },"2":{
     "id": 78,
     "name": "Jurm",
     "state_id": 3901,
@@ -23,7 +24,7 @@
     "longitude": "70.83421000",
     "wikiDataId": "Q10308323"
   },
-  {
+  "3":{
     "id": 84,
     "name": "Khandūd",
     "state_id": 3901,
@@ -36,7 +37,7 @@
     "longitude": "72.31800000",
     "wikiDataId": "Q3290334"
   },
-  {
+  "4":{
     "id": 115,
     "name": "Rāghistān",
     "state_id": 3901,
@@ -49,7 +50,7 @@
     "longitude": "70.67346000",
     "wikiDataId": "Q2670909"
   },
- {
+ "5":{
     "id": 131,
     "name": "Wākhān",
     "state_id": 3901,
@@ -62,7 +63,7 @@
     "longitude": "73.34928000",
     "wikiDataId": "Q2509959"
   },
- {
+ "6":{
     "id": 72,
     "name": "Ghormach",
     "state_id": 3871,
@@ -75,7 +76,7 @@
     "longitude": "63.78264000",
     "wikiDataId": "Q5556982"
   },
-  {
+  "7":{
     "id": 108,
     "name": "Qala i Naw",
     "state_id": 3871,
@@ -88,7 +89,7 @@
     "longitude": "63.12891000",
     "wikiDataId": "Q26396"
   },
-  {
+  "8":{
     "id": 54,
     "name": "Baghlān",
     "state_id": 3875,
